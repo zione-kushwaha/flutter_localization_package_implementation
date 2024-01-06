@@ -1,0 +1,10 @@
+{
+  "@@locale": "en",
+
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "screen2":"screen 2",
+  "navigate_to_screen_2":"navigate to screen 2"
+}
